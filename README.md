@@ -13,3 +13,5 @@ As part of this project, the Technical Author will work with developers and the 
 The Technical Author will use [Swagger2Markup](https://github.com/Swagger2Markup) to transform the OpenAPI specifications into static AsciiDoc pages for inclusion in our documentation.
 
 As a stretch goal, the Technical Author will work with the Server team to set up [Swagger UI](https://swagger.io/tools/swagger-ui) pages to allow users to explore the API interactively, and incorporate these dynamic Swagger UI pages into the documentation.
+
+[Couchbase Documentation](https://docs.couchbase.com/home/index.html)
